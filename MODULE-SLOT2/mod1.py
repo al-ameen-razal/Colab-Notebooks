@@ -10,3 +10,7 @@ print("Product = ", arithmetic.multiply())
 
 result = arithmetic.divisioin(50, 10)
 print("Division = ", result)
+
+
+def demo():
+    print("It's a demo")
