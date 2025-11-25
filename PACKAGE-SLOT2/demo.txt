@@ -1,0 +1,7 @@
+Strings-package name
+mod1- string-operation.py
+    concat(), repeat()
+
+mod2- string-programs.py
+    membership()
+    iteration()
